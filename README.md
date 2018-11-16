@@ -20,9 +20,9 @@ The online version of this project is available [here](https://vidly-movies.hero
 ### Login in the app
 
 | Type          | username      | password  |
-| ------------- |:-------------:| ---------:|
+| ------------- | ------------- | --------- |
 | admin         | admin@admin   | admin     |
-| user          | centered      | user      |
+| user          | user@user     | user      |
 
 
 ### Register tab
