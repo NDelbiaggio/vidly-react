@@ -1,4 +1,3 @@
-
 ## Vidly application
 
 This project is based on the react course made by [Mosh Hamedani](https://codewithmosh.com/p/mastering-react)
@@ -18,12 +17,26 @@ This project is based on the react course made by [Mosh Hamedani](https://codewi
 
 The online version of this project is available [here](https://vidly-movies.herokuapp.com)
 
-### Connect as an admin
+### Login in the app
 
-**username** : admin@admin
+| Type          | username      | password  |
+| ------------- |:-------------:| ---------:|
+| admin         | admin@admin   | admin     |
+| user          | centered      | user      |
 
-**password** : admin
 
-### Connect as a user
+### Register tab
 
-Just use the register form and you will be connected as a user.
+The register tab will create a new user, so will not be able to delete a movie.
+
+### Run Project in local
+
+Install the node_modules with 
+```
+npm install
+```
+
+and then run the app with 
+```
+npm run start
+```
